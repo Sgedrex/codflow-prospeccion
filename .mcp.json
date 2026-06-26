@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "google-maps": {
+      "command": "powershell",
+      "args": ["-ExecutionPolicy", "Bypass", "-File", "run-mcp-google-maps.ps1"]
+    }
+  }
+}

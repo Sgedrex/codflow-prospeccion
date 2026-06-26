@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "f9ca7388d9d5c543",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d260b12b7f72e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10233f559323b284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casos de Estudio/Importadora Mundo Fino — Calidonia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Importadora Mundo Fino — Calidonia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c178516a3890fcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "956a81966c323411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c90a6cd72e665ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9a3e4862ad24c96f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9bfe9903c8ff5aee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78ceacc1a0622030",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b49741bf9cd85e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7949b83a7e51021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Casos de Estudio/Importadora Mundo Fino — Calidonia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Importadora Mundo Fino — Calidonia"
+            }
+          },
+          {
+            "id": "0236f709fd194024",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Casos de Estudio/Importadora Mundo Fino — Calidonia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Importadora Mundo Fino — Calidonia"
+            }
+          },
+          {
+            "id": "3feb178636f0a484",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0515efa22ed20ab1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "740df34021d3ff8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Casos de Estudio/Importadora Mundo Fino — Calidonia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Importadora Mundo Fino — Calidonia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "10233f559323b284",
+  "lastOpenFiles": [
+    "Patrones/Patrones — Importadora.md",
+    "Casos de Estudio/Importadora Mundo Fino — Calidonia.md",
+    "Rubros/Importadora/Índice — Importadora.md",
+    "Casos de Estudio/Importadora Transmundi — Juan Díaz.md",
+    "Rubros/Distribución/Índice — Distribución.md",
+    "Patrones/Patrones — Distribución.md",
+    "Rubros/Contable/Índice — Contable.md",
+    "Rubros/Clínica/Índice — Clínica.md",
+    "Patrones — Logística.md",
+    "Sistema de prospectos.md",
+    "Patrones/Patrones — Contable.md",
+    "Patrones/Patrones — Clínica.md",
+    "Patrones/Patrones — Logística.md",
+    "Casos de Estudio/Distribuidora DEPEDÉ — Av. Central.md",
+    "Casos de Estudio/Distribuidora UPIM.md",
+    "Casos de Estudio/Importadora del Este — Juan Díaz.md",
+    "Casos de Estudio/Importadora del Este — Juan Díaz.md.tmp.20096.eeecdaf6dac1",
+    "Casos de Estudio/Distribuidora SIEMA — Las Mañanitas.md",
+    "Casos de Estudio/Importadora Scorpio — Av. B.md",
+    "Casos de Estudio/Importadora Scorpio — Av. B.md.tmp.20096.281b62015295",
+    "Casos de Estudio/Importadora Chen — Av. Domingo Díaz.md",
+    "Casos de Estudio/Soluciones Contables Panamá.md",
+    "Casos de Estudio/Soluciones Contables Panamá.md.tmp.20096.370af78f8fe0",
+    "Casos de Estudio/Núñez Soto & Asociados.md",
+    "Casos de Estudio/Kontadores Panamá.md",
+    "Casos de Estudio/BTA Consultores.md",
+    "Casos de Estudio/Hurtado & Asociados CPA.md",
+    "Casos de Estudio/Bermúdez & Asociados.md",
+    "Casos de Estudio/Contadores Tributarios y Financieros.md",
+    "Casos de Estudio/Laboratorios SYSLAB.md.tmp.20096.58b375a75482",
+    "Casos de Estudio/GLC Panamá — Panamá Pacífico.md.tmp.20096.2ea8fb823453",
+    "Casos de Estudio/Next 2.2 Logistics — Vía España.md.tmp.20096.4825827426c5",
+    "Rubros/Distribución/Índice — Distribución.md.tmp.20096.e43eb4a0aa38",
+    "Patrones",
+    "Casos de Estudio",
+    "Rubros/Logística"
+  ]
+}
