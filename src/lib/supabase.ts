@@ -4,9 +4,9 @@ import type { Lead } from "@/types/lead";
 // Valores públicos del proyecto Supabase de Codflow (la anon key ya viaja en el bundle
 // del navegador por ser NEXT_PUBLIC). La variable de entorno tiene prioridad si está definida;
 // el fallback garantiza que el deploy funcione sin depender de la config de Vercel.
-const FALLBACK_SUPABASE_URL = "https://xjkpaxsptfmpkgtymbuu.supabase.co";
+const FALLBACK_SUPABASE_URL = "https://oidamsohoevhiyhqlegt.supabase.co";
 const FALLBACK_SUPABASE_ANON_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhqa3BheHNwdGZtcGtndHltYnV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIyNDc4NjksImV4cCI6MjA5NzgyMzg2OX0.7lzxj3AC3lo177Y8MjGN5wYs0p5p49gJkb22L2n9e0A";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9pZGFtc29ob2V2aGl5aHFsZWd0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYzNjI4NTUsImV4cCI6MjEwMTkzODg1NX0.1PYz2DpqVy7Gcr4GK3mT6nbNTrbbHe3ewPK5XHPCKic";
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || FALLBACK_SUPABASE_URL;
 const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || FALLBACK_SUPABASE_ANON_KEY;
